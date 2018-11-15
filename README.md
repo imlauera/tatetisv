@@ -1,4 +1,4 @@
-This is pretty shitty man.
+This is garbage.
 
 ### TODO
 Chequear que el usuario este conectado fuera de cada comando.  
