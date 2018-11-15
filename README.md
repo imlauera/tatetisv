@@ -1,7 +1,7 @@
 This is pretty shitty man.
 
-#### TODO
-  Chequear que el usuario este conectado fuera de cada comando.  
+### TODO
+[ ] Chequear que el usuario este conectado fuera de cada comando.  
   Reescribir funciones para recuperar info horriblemente escritas.  
   Sacar tabs.  
   Reimplementar espero\_guardo usando mensajes en lugar de listas, dividirla en funciones mas pequeñas.  
