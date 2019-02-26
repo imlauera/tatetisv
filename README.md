@@ -1,5 +1,3 @@
-This is garbage.
-
 ### TODO
 **Sacar todos esos comentarios inútiles**.  
 Chequear que el usuario este conectado fuera de cada comando.  
