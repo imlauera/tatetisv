@@ -1,6 +1,7 @@
 This is garbage.
 
 ### TODO
+#### Sacar todos esos comentarios que puse al pedo!!!!
 Chequear que el usuario este conectado fuera de cada comando.  
 Reescribir funciones para recuperar info horriblemente escritas.  
 Sacar tabs.  
