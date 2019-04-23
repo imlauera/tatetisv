@@ -1,5 +1,4 @@
-### TODO
-**Sacar todos esos comentarios inútiles**.  
+### TODO 
 Chequear que el usuario este conectado fuera de cada comando.  
 Reescribir funciones para recuperar info horriblemente escritas.  
 Sacar tabs.  
